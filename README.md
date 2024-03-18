@@ -1,5 +1,5 @@
 # Android-Reverse-Engineering
-A FREE comprehensible guide to learning Android Reverse Engineering. From Java, to Dalvik, to ART, to the JNI come learn along.
+A FREE comprehensive guide to learning Android Reverse Engineering. From Java, to Dalvik, to ART, to the JNI come learn along.
 
 ## Who Should Read This
 The following guide, is for anyone and everyone who is looking for a FREE comprehensive guide for learning Android Reverse Engineering (RE). In this series, we will start with what is Reverse Engineering and its importance. Then, we will look at Java and the JVM. In the end, we will look into Dalvik bytecode and the Android Runtime (ART), and we will finish with the Java Native Interface (JNI) and ARM RE. 
@@ -16,11 +16,20 @@ So come along with me in this journey, as we work to learn the inner workings of
             <ul>
                 <li>Goals</li>
                 <li>Techniques</li>
+                <li>Tools: Overview</li>
+                <li>Tools: Linux</li>
+                <li>Tools: VIM</li>
+                <li>Tools: APKTool</li>
+                <li>Tools: Jadx</li>
+                <li>Tools: Android Debug Bridge</li>
+                <li>Tools: Ghidra</li>
             </ul>
         <li>Android Basics</li>
             <ul>
                 <li>Android Overview</li>
                 <li>Component Model</li>
+                <li>Android Permissions</li>
+                <li>Manifest File</li>
             </ul>
         <li>Java COMMING SOON</li>
     </ol>
