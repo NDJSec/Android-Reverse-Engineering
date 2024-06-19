@@ -20,6 +20,7 @@
     <br />
     <a href="https://github.com/NDJSec/Android-Reverse-Engineering"><strong>Explore the PDF »</strong></a>
     <br />
+    <a href="https://android.nicolasjanis.dev/"><strong>Explore the EBook »</strong></a>
     <br />
   </p>
 <h3 align="center">IN DEVELOPMENT</h3>
