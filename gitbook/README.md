@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Android Reverse Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-Android%20Reverse%20Engineering-green.svg?logo=github)](https://github.com/NDJSec/Android-Reverse-Engineering/tree/main) [![Twitter](https://img.shields.io/badge/Twitter-%40NicolasJanis1-blue?logo=twitter\&color=blue)](https://twitter.com/NicolasJanis1)
